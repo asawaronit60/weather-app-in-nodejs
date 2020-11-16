@@ -1,0 +1,10 @@
+html{
+    text-align: center;
+    margin: 200px;
+    color:red;
+}
+.box{
+    display: flexbox;
+    flex-direction: row;
+    justify-content: center;
+}
